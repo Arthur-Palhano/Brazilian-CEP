@@ -1,12 +1,17 @@
-<h1>Brazilian-CEP</h1>
-<h2>BR => Esse programa vai buscar várias informações sobre o endereço só com o CEP</h2>
-<h2>EN => This program will search a lot of adress info with CEP</h2>
+# Brazilian CEP
 
-<h4>Currently this program shows:</h4>
-<ul>
-  <li>Neighborhood</li>
-  <li>City</li>
-  <li>State</li>
-  <li>Street</li>
-  <li>Complement</li>
-</ul>
+## THis program can search for a adress just with CEP.
+
+### Info
++ Neighborhood
++ City
++ State
++ Street
++ Complement
+
+## How to use?
+
+Start with:  
+```bash
+python cepsearcher.py
+```
