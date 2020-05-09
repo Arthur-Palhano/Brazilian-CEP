@@ -21,4 +21,4 @@ This will appear:
 
 So type the CEP and...
 
-Nice, you will see the adress info with CEp
+Nice, you will see the adress info with CEP
